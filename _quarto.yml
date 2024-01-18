@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Merlise Clyde"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - CV.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2024, Merlise Clyde"
+    background: "#353148"
+ 
+

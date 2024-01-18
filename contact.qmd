@@ -1,0 +1,27 @@
+---
+title: "Contact"
+---
+
+You may reach me via: <img src="images/clyde-crayon.jpg" title="Merlise Clyde" style="float: right;
+width:230px;">
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa fa-envelope"></i><a href="mailto:clyde@duke.edu">clyde@duke.edu</a></li>
+  <li><i class="fa-li fa fa fa-fax"></i>919-684-8594</li>
+  <li><i class="fa-li fa fa fa-university"></i>Department of Statistical Science <br> 
+223E Old Chemistry Building, Box 90251 <br>
+Duke University <br>
+Durham, NC 27708-0251 <br></li>
+</ul>
+
+
+<br>
+If you want to make an appointment to meet with me, please use my [Booking Page](https://outlook.office.com/bookwithme/user/46121f8146d540b39b76333eb00f1526@duke.edu?anonymous&ep=plink) or 
+<a href="mailto:clyde@duke.edu">email me</a> suggesting a few times 
+between 8:30 am - 5pm that appear to be free on my calendar below.
+<br>
+
+<iframe
+src="https://outlook.office365.com/owa/calendar/46121f8146d540b39b76333eb00f1526@duke.edu/482a202680a84c26a641daa0adddc3c09153118063265977474/calendar.html"
+style="border: 0" width="800" height="600" frameborder="0"
+scrolling="no"></iframe>
