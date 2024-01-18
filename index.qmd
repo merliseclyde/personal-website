@@ -2,10 +2,4 @@
 title: "Merlise Clyde"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/ocracoke-lighthouse.jpg){fig-alt="Photo of Ocracoke Lighthouse, Outerbanks NC."}
