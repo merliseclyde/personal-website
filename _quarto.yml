@@ -22,4 +22,5 @@ page-footer:
     left: "&copy; Copyright 2024, Merlise Clyde"
     background: "#353148"
  
-
+execute:
+  freeze: auto
