@@ -7,9 +7,9 @@
     "text": "You may reach me via: \n\n\nclyde@duke.edu\n\n\n919-684-8594\n\n\nDepartment of Statistical Science  223E Old Chemistry Building, Box 90251  Duke University  Durham, NC 27708-0251 \n\n\n If you want to make an appointment to meet with me, please use my Booking Page or email me suggesting a few times between 8:30 am - 5pm that appear to be free on my calendar below."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Merlise Clyde",
     "section": "",
     "text": "I am a Professor of Statistical Science at Duke University. I received my PhD in 1993 from the University of Minnesota and joined the faculty at the Institute of Statistics and Decision Sciences (now the Department of Statistical Sciences) at Duke University in the fall of 1993. I served as Chair of the Department of Statistical Science at Duke from 2013-2019.\nI am a past President of the International Society of Bayesian Analysis (ISBA), and an elected Fellow of the American Statistical Association, the Institute of Mathematical Statistics and the International Socirty of Bayesian Analysis. I received the Zellner Medal from ISBA in 2016. My research focuses on Bayesian solutions to the related problems of feature/variable selection, model selection and prediction using an ensemble of models to account for model uncertainty using Bayesian Model Averaging, with an emphasis on prior choice and computation.\nI have developed several R packages to support research in BMA, including BAS, Bayesian Adaptive Sampling for Bayesian Model Averaging. My work is inspired by applications in environmental health, chemistry, genomics, neuroscience and astronomy, among others.\nIn my free time, I enjoy time with my family, sailing, puttering in the garden, growing orchids, photography, and exploring the Durham food scene and cooking!"
   },
