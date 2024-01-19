@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "allow=“autoplay”&gt;"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -12,12 +19,5 @@
     "title": "Merlise Clyde",
     "section": "",
     "text": "I am a Professor of Statistical Science at Duke University. I received my PhD in 1993 from the University of Minnesota and joined the faculty at the Institute of Statistics and Decision Sciences (now the Department of Statistical Sciences) at Duke University in the fall of 1993. I served as Chair of the Department of Statistical Science at Duke from 2013-2019.\nI am a past President of the International Society of Bayesian Analysis (ISBA), and an elected Fellow of the American Statistical Association, the Institute of Mathematical Statistics and the International Socirty of Bayesian Analysis. I received the Zellner Medal from ISBA in 2016. My research focuses on Bayesian solutions to the related problems of feature/variable selection, model selection and prediction using an ensemble of models to account for model uncertainty using Bayesian Model Averaging, with an emphasis on prior choice and computation.\nI have developed several R packages to support research in BMA, including BAS, Bayesian Adaptive Sampling for Bayesian Model Averaging. My work is inspired by applications in environmental health, chemistry, genomics, neuroscience and astronomy, among others.\nIn my free time, I enjoy time with my family, sailing, puttering in the garden, growing orchids, photography, and exploring the Durham food scene and cooking!"
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
-    "section": "",
-    "text": "allow=“autoplay”&gt;"
   }
 ]
