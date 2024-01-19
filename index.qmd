@@ -5,9 +5,10 @@ subtitle: "Professor of Statistical Science"
 
 <img src="images/ocracoke-lighthouse.jpg" width="100%" title="Ocracoke Lightouse" alt="Photo of Ocracoke Lighthouse, Outerbanks NC."/>
 
-I am a Professor of Statistical Science at Duke University.  I received my PhD in 1993 from the University of Minnesota and joined the faculty at the Institute of Statistics and Decision Sciences (now the Department of Statistical Sciences) at Duke University in the fall of 1993. I served as Chair of the Department of Statistical Science at Duke from 2013-2019.
+I am a Professor of Statistical Science at Duke University.  I received my PhD in 1993 from the University of Minnesota and joined the faculty at the Institute of Statistics and Decision Sciences (now the Department of Statistical Sciences) at Duke University in the fall of 1993.  My research focuses on Bayesian solutions to the related problems of feature/variable selection, model selection and prediction using an ensemble of models to account for model uncertainty using Bayesian Model Averaging, with an emphasis on prior choice and computation.
 
-I am a past President of the International Society of Bayesian Analysis (ISBA), and an elected Fellow of the American Statistical Association, the Institute of Mathematical Statistics and the International Socirty of Bayesian Analysis. I received the Zellner Medal from ISBA in 2016. My research focuses on Bayesian solutions to the related problems of feature/variable selection, model selection and prediction using an ensemble of models to account for model uncertainty using Bayesian Model Averaging, with an emphasis on prior choice and computation.
+I served as Chair of the Department of Statistical Science at Duke from 2013-2019.
+I am a past President of the International Society of Bayesian Analysis (ISBA), and an elected Fellow of the American Statistical Association, the Institute of Mathematical Statistics and the International Socirty of Bayesian Analysis. I received the Zellner Medal from ISBA in 2016.
 
 I have developed several R packages to support research in BMA, including BAS, Bayesian Adaptive Sampling for Bayesian Model Averaging. My work is inspired by applications in environmental health, chemistry, genomics, neuroscience and astronomy, among others.
 
