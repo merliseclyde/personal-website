@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+Recent Courses:
+
+[STA 721 - Linear Models](https://sta721-F24.github.io/website/) (Fall 24)
+
+[STA 702 -Bayesian Statistical Modeling and Data Analysis ](https://sta702-F23.github.io/website/) (Fall 23)
+
+STA 790 - Advanced Topics in Statistics: Lévy Processes and Bayesian Nonparametric Regression  (Spring 23)

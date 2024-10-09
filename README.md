@@ -1,2 +1,2 @@
-# website
-website using Hugo
+# Merlise Clyde's Website
+personal website developed using Quarto

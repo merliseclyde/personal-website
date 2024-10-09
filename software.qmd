@@ -1,0 +1,9 @@
+---
+title: "Software"
+---
+
+R packages: (hosted on Github and CRAN)
+
+[BAS](https://merliseclyde.github.io/BAS) Bayesian Variable Selection and Model Averaging using Bayesian Adaptive Sampling.  Applications include linear regression, logistic regression, negative binomial and Poisson regression using mixtures of g-priors.
+
+[bark](https://merliseclyde.github.io/bark) Bayesian Additive Regression Kernels. The bark package implements function estimation based on a Bayesian nonparametric regression model represented as a sum of multivariate Gaussian kernels as a flexible model to capture nonlinearities, interactions and feature selection of variables. Priors for the kernel coefficients and kernel parameters are based on an approximation to a Cauchy process, a special case of Lévy random measures.

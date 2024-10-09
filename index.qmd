@@ -10,6 +10,6 @@ I am a Professor of Statistical Science at Duke University.  I received my PhD i
 I served as Chair of the Department of Statistical Science at Duke from 2013-2019.
 I am a past President of the International Society of Bayesian Analysis (ISBA), and an elected Fellow of the American Statistical Association, the Institute of Mathematical Statistics and the International Socirty of Bayesian Analysis. I received the Zellner Medal from ISBA in 2016.
 
-I have developed several R packages to support research in BMA, including BAS, Bayesian Adaptive Sampling for Bayesian Model Averaging. My work is inspired by applications in environmental health, chemistry, genomics, neuroscience and astronomy, among others.
+I have developed several R packages to support research in BMA, including BAS, Bayesian Adaptive Sampling for Bayesian Model Averaging (see [Software](/software.html)). My work is inspired by applications in environmental health, chemistry, genomics, neuroscience and astronomy, among others.
 
 In my free time, I enjoy time with my family, sailing, puttering in the garden, growing orchids, photography, and exploring the Durham food scene and cooking!
